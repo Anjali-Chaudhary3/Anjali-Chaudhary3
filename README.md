@@ -32,6 +32,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="@anjali-chaudhary3&compact=True">
-<!--   https://github-readme-stats.vercel.app/api/wakatime?username=@anjali-chaudhary3&compact=True"/> -->
+<!--   https://github-readme-stats.vercel.app/api/wakatime?username=anjali-chaudhary3&compact=True"/> -->
 </a>
 
