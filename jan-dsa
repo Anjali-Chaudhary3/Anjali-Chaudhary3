@@ -1,0 +1,24 @@
+1.https://leetcode.com/problems/move-zeroes/description/
+  int start = 0;
+        int end = 0;
+        while(start < nums.size()){
+            if(nums[start] == 0){
+                start++;
+            }
+            else{
+                swap(nums[start], nums[end]);
+                start++;
+                end++;
+            }}
+            
+
+2.https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/
+
+                     //    int y=it.second;
+                    //    c+=(y/3);
+                    //    if(y%3!=0)
+                    //    c+=1;
+                    or
+                        c+=ceil(it.second/3.0);
+                     or
+                        // c+=(y+2)/3;
